@@ -1,0 +1,43 @@
+---
+layout: archive
+---
+
+{{ content }}
+<h3 class="archive__subtitle">Publications</h3>
+<!-- <p class="archive__selfdefine-content">You can also find my articles on my
+<a href="https://scholar.google.com/citations?user=0VF4NWIAAAAJ&hl=en&oi=ao">Google Scholar</a> profile.
+</p> -->
+
+{% assign publications = site.publications | sort: "indexnum" | reverse %}
+{% for pub in publications %}
+<!-- <div class="pubteaser">
+      <img
+        src="/assets/pubimg/{{ pub.slug }}.jpg"
+        alt="{{pub.slug}} publication teaser"
+      />
+</div> -->
+<div class="pubitem">
+    <div class="pubteaser">
+        <!-- <a href="{{pub.url}}"> -->
+          <img
+            src="/assets/pubimg/{{ pub.slug }}.jpg"
+            alt="{{pub.slug}} publication teaser"
+          />
+        <!-- </a> -->
+    </div>
+    <div class="pubtext">
+        <p class="pubtitle">{{ pub.index }} {{ pub.title }}</p>
+        <p class="pubauthors">{{ pub.authors }}</p>
+        <p class="pubinfo">{{ pub.publication }}, {{ pub.year }}</p>        
+        <p class="publinks" style="text-align:left;">
+            <a href={{pub.doi}} class="btn btn--inverse">DOI</a>
+            <a href={{pub.url}} class="btn btn--inverse">BibTeX</a>
+            {% if pub.video != "" %}
+            <a href={{pub.video}} class="btn btn--inverse">Video</a>
+            {% endif %}
+            <!-- <a href="#" class="btn btn--info">PDF</a> -->
+        </p>
+</div>
+
+</div>
+{% endfor %}

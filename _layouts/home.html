@@ -1,0 +1,71 @@
+---
+layout: archive
+---
+
+{{ content }}
+<h3 class="archive__subtitle">About</h3>
+<p class="archive__selfdefine-content">Hi! I’m Rongkai Shi, a third-year Ph.D. student at University of Liverpool, advised by <a href="https://www.xjtlu.edu.cn/en/departments/academic-departments/school-of-advanced-technology/staff/haining-liang">Prof. Hai-Ning Liang</a>. 
+Previously, I completed my undergraduate degree at Xi’an Jiaotong-Liverpool University and worked as a research assistant in 
+<a href="https://www.researchgate.net/lab/X-CHI-Lab-Hai-Ning-Liang">X-CHI Lab</a>. 
+My research interests fall broadly in Human-Computer Interaction (HCI), with a particular focus on Interaction Design for Virtual/Augmented Reality (VR/AR) systems. </p>
+
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %} -->
+
+<h3 class="archive__subtitle">Latest News</h3>
+<ul class="archive__selfdefine-content">
+  <li><b>Dec 2022</b>: I won the <i class="fas fa-award"></i> best oral presentation award at XJTLU PGRS'22.</li>
+  <li><b>Dec 2022</b>: One co-authored paper was conditionally accepted at IEEE VR'23 Journal Track.</li>
+  <li><b>Dec 2022</b>: I served as a virtual setup assistant for IEEE AIVR'22.</li>
+  <li><b>Dec 2022</b>: I presented our paper at ACM SUI'22.</li>
+  <li><b>Oct 2022</b>: I served as a remote student volunteer for IEEE ISMAR'22.</li>
+</ul>
+
+
+<h3 class="archive__subtitle">Selected Publications</h3>
+
+{% assign publications = site.publications | sort: "indexnum" | reverse %}
+{% for pub in publications %}
+{% if pub.selected == true %}
+<div class="pubitem">
+    <div class="pubteaser">
+        <!-- <a href="{{pub.url}}"> -->
+          <img
+            src="/assets/pubimg/{{ pub.slug }}.jpg"
+            alt="{{pub.slug}} publication teaser"
+          />
+        <!-- </a> -->
+    </div>
+    <div class="pubtext">
+        <p class="pubtitle">{{ pub.title }}</p>
+        <p class="pubauthors">{{ pub.authors }}</p>
+        <p class="pubinfo">{{ pub.publication }}, {{ pub.year }}</p>        
+        <p class="publinks" style="text-align:left;">
+            <a href={{pub.doi}} class="btn btn--inverse">DOI</a>
+            <a href={{pub.url}} class="btn btn--inverse">BibTeX</a>
+            {% if pub.video != "" %}
+            <a href={{pub.video}} class="btn btn--inverse">Video</a>
+            {% endif %}
+            <!-- <a href="#" class="btn btn--info">PDF</a> -->
+        </p>
+</div>
+</div>
+{% endif %}
+{% endfor %}
+<p class="archive__selfdefine-content">View full list of publications <a href=publications><i class="fas fa-link"></i></a></p>
+
+<!-- <div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %} -->
+
