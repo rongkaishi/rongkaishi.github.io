@@ -10,7 +10,7 @@ slug: hao-VRCockpit22
 indexnum: 11
 index: "[P.3]"
 video: ""
-
+paperrep: true
 ---
 
 @INPROCEEDINGS{9893678,<br/>

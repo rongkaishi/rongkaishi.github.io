@@ -10,6 +10,7 @@ slug: jialin-resolution22
 indexnum: 10
 index: "[J.5]"
 video: ""
+paperrep: true
 ---
 
 @article{10.1145/3522610, <br/>

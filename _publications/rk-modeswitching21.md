@@ -11,6 +11,7 @@ indexnum: 7
 index: "[C.3]"
 video: https://www.youtube.com/watch?v=TiVN5bG0S2E
 selected: true
+paperrep: true
 ---
 
 @INPROCEEDINGS{9583741,  <br/>

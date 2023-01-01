@@ -35,6 +35,9 @@ layout: archive
             {% if pub.video != "" %}
             <a href={{pub.video}} class="btn btn--inverse">Video</a>
             {% endif %}
+            {% if pub.paperrep == true %}
+            <a href="/assets/papers/{{ pub.slug }}.pdf" class="btn btn--inverse">Paper</a>
+            {% endif %}
             <!-- <a href="#" class="btn btn--info">PDF</a> -->
         </p>
 </div>

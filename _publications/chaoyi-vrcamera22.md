@@ -10,4 +10,7 @@ slug: chaoyi-vrcamera22
 indexnum: 14
 index: "[C.5]"
 video: ""
+paperrep: true
 ---
+
+not ready yet.

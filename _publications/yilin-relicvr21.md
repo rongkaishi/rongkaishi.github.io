@@ -10,6 +10,7 @@ slug: yilin-relicvr21
 indexnum: 6
 index: "[P.1]"
 video: ""
+paperrep: true
 ---
 
 @inproceedings{10.1145/3450337.3483507,<br/>
