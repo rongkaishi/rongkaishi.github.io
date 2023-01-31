@@ -13,4 +13,18 @@ video: ""
 paperrep: true
 ---
 
-not ready yet.
+@inproceedings{10.1145/3574131.3574439, <br/>
+author = {Liu, Chaoyi and Shi, Rongkai and Xiang, Nan and Ma, Jieming and Liang, Hai-Ning},<br/>
+title = {A Low-Cost Efficient Approach to Synchronize Real-World and Virtual-World Objects in VR via In-Built Cameras},<br/>
+year = {2023}, <br/>
+isbn = {9798400700316},<br/>
+publisher = {Association for Computing Machinery},<br/>
+address = {New York, NY, USA},<br/>
+url = {https://doi.org/10.1145/3574131.3574439},<br/>
+doi = {10.1145/3574131.3574439},<br/>
+articleno = {32},<br/>
+numpages = {8},<br/>
+keywords = {Virtual Reality, Object Synchronization, Augmented Reality},<br/>
+location = {Guangzhou, China},<br/>
+series = {VRCAI '22}<br/>
+}
