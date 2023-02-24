@@ -8,7 +8,7 @@ doi: https://doi.org/10.1109/VRW55335.2022.00122
 pubtype: poster
 slug: jialin-resolutionposter22
 indexnum: 9
-index: "[P.2]"
+index: "[P2]"
 video: ""
 
 ---

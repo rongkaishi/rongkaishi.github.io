@@ -8,7 +8,7 @@ doi: https://doi.org/10.1145/3450337.3483507
 pubtype: poster
 slug: yilin-relicvr21
 indexnum: 6
-index: "[P.1]"
+index: "[P1]"
 video: ""
 paperrep: true
 ---

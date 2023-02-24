@@ -8,7 +8,7 @@ doi: https://doi.org/10.3389/frvir.2022.1056782
 pubtype: journal
 slug: zhen-vrtaste22
 indexnum: 13
-index: "[J.6]"
+index: "[J6]"
 video: ""
 ---
 

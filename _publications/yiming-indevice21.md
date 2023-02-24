@@ -8,7 +8,7 @@ doi: https://doi.org/10.1109/TOH.2021.3138590
 pubtype: journal
 slug: yiming-indevice21
 indexnum: 8
-index: "[J.4]"
+index: "[J4]"
 video: ""
 ---
 

@@ -8,7 +8,7 @@ doi: https://doi.org/10.1145/3451255
 pubtype: conference
 slug: rk-vrsickness21
 indexnum: 4
-index: "[J.3]"
+index: "[J3]"
 video: ""
 selected: true
 paperrep: true

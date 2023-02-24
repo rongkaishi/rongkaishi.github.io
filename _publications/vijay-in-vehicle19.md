@@ -8,7 +8,7 @@ doi: https://doi.org/10.3390/mti3020033
 pubtype: journal
 slug: vijay-in-vehicle19
 indexnum: 1
-index: "[J.1]"
+index: "[J1]"
 video: ""
 ---
 

@@ -8,7 +8,7 @@ doi: https://doi.org/10.3390/app9153177
 pubtype: journal
 slug: vijay-artextile19
 indexnum: 2
-index: "[J.2]"
+index: "[J2]"
 video: ""
 ---
 

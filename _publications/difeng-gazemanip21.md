@@ -8,7 +8,7 @@ doi: https://doi.org/10.1145/3411764.3445343
 pubtype: conference
 slug: difeng-gazemanip21
 indexnum: 5
-index: "[C.2]"
+index: "[C2]"
 video: ""
 ---
 

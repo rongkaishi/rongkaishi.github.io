@@ -8,7 +8,7 @@ doi: https://doi.org/10.1109/TALE48000.2019.9225914
 pubtype: conference
 slug: rk-learninganalytics19
 indexnum: 3
-index: "[C.1]"
+index: "[C1]"
 video: ""
 selected: false
 ---

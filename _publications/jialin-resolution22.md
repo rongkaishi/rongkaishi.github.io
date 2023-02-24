@@ -8,7 +8,7 @@ doi: https://doi.org/10.1145/3522610
 pubtype: journal
 slug: jialin-resolution22
 indexnum: 10
-index: "[J.5]"
+index: "[J5]"
 video: ""
 paperrep: true
 ---

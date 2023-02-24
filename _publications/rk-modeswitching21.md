@@ -8,7 +8,7 @@ doi: https://doi.org/10.1109/ISMAR52148.2021.00026
 pubtype: conference
 slug: rk-modeswitching21
 indexnum: 7
-index: "[C.3]"
+index: "[C3]"
 video: https://www.youtube.com/watch?v=TiVN5bG0S2E
 selected: true
 paperrep: true
