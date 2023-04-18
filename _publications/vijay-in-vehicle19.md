@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bibformat
 title: "Towards a Taxonomy for In-Vehicle Interactions Using Wearable Smart Textiles: Insights from a User-Elicitation Study"
 authors: Vijayakumar Nanjappan, <b>Rongkai Shi</b>, Hai-Ning Liang, Kim King-Tong Lau, Yong Yue, and Katie Atkinson
 publication: Multimodal Technologies and Interaction

@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: bibformat
 title: "Predicting Gaze-based Target Selection in Augmented Reality Headsets based on Eye and Head Endpoint Distributions"
 authors: Yushi Wei, <b>Rongkai Shi</b>, Difeng Yu, Yihong Wang, Yue Li, Lingyun Yu, and Hai-Ning Liang
 publication: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23)
 year: 2023
-doi: https://doi.org/10.1145/3544548.3581042
+doi: ""
 pubtype: conference
 slug: yushi-armodeling23
 indexnum: 16

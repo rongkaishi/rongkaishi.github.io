@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bibformat
 title: "RelicVR: A Virtual Reality Game for Active Exploration of Archaeological Relics"
 authors: Yilin Liu, Yiming Lin, <b>Rongkai Shi</b>, Yiming Luo, and Hai-Ning Liang
 publication: Extended Abstracts of the 2021 Annual Symposium on Computer-Human Interaction in Play (CHI PLAY)

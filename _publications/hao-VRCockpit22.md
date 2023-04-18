@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bibformat
 title: "VRCockpit: Mitigating Simulator Sickness in VR Games Using Multiple Egocentric 2D View Frames"
 authors: Hao Chen, <b>Rongkai Shi</b>, Diego Monteiro, Nilufar Baghaei, and Hai-Ning Liang
 publication: 2022 IEEE Conference on Games (CoG)

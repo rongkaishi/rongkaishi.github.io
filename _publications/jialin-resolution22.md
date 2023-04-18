@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bibformat
 title: "Effect of Render Resolution on Gameplay Experience, Performance, and Simulator Sickness in Virtual Reality Games"
 authors: Jialin Wang, <b>Rongkai Shi</b>, Zehui Xiao, Xueying Qin, and Hai-Ning Liang
 publication: Proceedings of the ACM on Computer Graphics and Interactive Techniques

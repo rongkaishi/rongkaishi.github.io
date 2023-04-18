@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bibformat
 title: "Exploring Head-based Mode-Switching in Virtual Reality"
 authors: <b>Rongkai Shi</b>, Nan Zhu, Hai-Ning Liang, and Shengdong Zhao
 publication: 2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR'21)

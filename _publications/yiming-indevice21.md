@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bibformat
 title: "In-Device Feedback in Immersive Head-Mounted Displays for Distance Perception During Teleoperation of Unmanned Ground Vehicles"
 authors: Yiming Luo, Jialin Wang, <b>Rongkai Shi</b>, Hai-Ning Liang, and Shan Luo
 publication: IEEE Transactions on Haptics (ToH)

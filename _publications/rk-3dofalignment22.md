@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bibformat
 title: "Group-based Object Alignment in Virtual Reality Environments"
 authors: <b>Rongkai Shi</b>, Jialin Zhang, Wolfgang Stuerzlinger, and Hai-Ning Liang
 publication: Proceedings of the 2022 ACM Symposium on Spatial User Interaction (SUI'22)

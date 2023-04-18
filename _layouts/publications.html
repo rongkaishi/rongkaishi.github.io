@@ -30,7 +30,9 @@ layout: archive
         <p class="pubauthors">{{ pub.authors }}</p>
         <p class="pubinfo">{{ pub.publication }}, {{ pub.year }}</p>        
         <p class="publinks" style="text-align:left;">
+            {% if pub.doi != "" %}
             <a href={{pub.doi}} class="btn btn--inverse">DOI</a>
+            {% endif %}  
             <a href={{pub.url}} class="btn btn--inverse">BibTeX</a>
             {% if pub.video != "" %}
             <a href={{pub.video}} class="btn btn--inverse">Video</a>

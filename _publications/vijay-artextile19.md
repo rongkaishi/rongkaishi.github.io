@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bibformat
 title: "Design of Interactions for Handheld Augmented Reality Devices Using Wearable Smart Textiles: Findings from a User Elicitation Study"
 authors: Vijayakumar Nanjappan, <b>Rongkai Shi</b>, Hai-Ning Liang, Haoru Xiao, Kim King-Tong Lau, and Khalad Hasan
 publication: Applied Science

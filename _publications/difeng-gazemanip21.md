@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bibformat
 title: "Gaze-Supported 3D Object Manipulation in Virtual Reality"
 authors: Difeng Yu, Xueshi Lu, <b>Rongkai Shi</b>, Hai-Ning Liang, Tilman Dingler, Eduardo Velloso, and Jorge Goncalves
 publication: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21)

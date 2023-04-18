@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bibformat
 title: "Examining Cross-Modal Correspondence between Ambient Color and Taste Perception in Virtual Reality"
 authors: Zhen Wu, <b>Rongkai Shi</b>, Ziming Li, Mengqi Jiang, Yue Li, Lingyun Yu, and Hai-Ning Liang
 publication: Frontiers in Virtual Reality

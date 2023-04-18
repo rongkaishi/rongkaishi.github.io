@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bibformat
 title: "A Low-cost Efficient Approach to Synchronize Realworld and Virtual-world Objects in VR via In-built Cameras"
 authors: Chaoyi Liu, <b>Rongkai Shi</b>, Nan Xiang, Jieming Ma, and Hai-Ning Liang
 publication: The 18th ACM SIGGRAPH International Conference on Virtual-Reality Continuum and its Applications in Industry (VRCAI ’22)

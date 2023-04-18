@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bibformat
 title: "Resolution Tradeoff in Gameplay Experience, Performance, and Simulator Sickness in Virtual Reality Games"
 authors: Jialin Wang, <b>Rongkai Shi</b>, Zehui Xiao, Xueying Qin, and Hai-Ning Liang
 publication: 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)

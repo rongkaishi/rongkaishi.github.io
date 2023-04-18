@@ -21,11 +21,11 @@ My research interests fall broadly into Human-Computer Interaction (HCI), with a
 
 <h3 class="archive__subtitle">Latest News</h3>
 <ul class="archive__selfdefine-content">
+  <li><b>Apr 2023</b>: One paper was accepted at ACM ETRA'23 Journal Track (PACMHCI). </li>
+  <li><b>Mar 2023</b>: Attended IEEE VR'23 <i class="far fa-laugh-squint"></i></li>
   <li><b>Jan 2023</b>: Two papers were conditionally accepted at ACM CHI'23. </li>
-  <li><b>Jan 2023</b>: One co-authored paper was accepted at IEEE VR'23 Journal Track. See you in Shanghai! <i class="far fa-laugh-squint"></i></li>
+  <li><b>Jan 2023</b>: One co-authored paper was accepted at IEEE VR'23 Journal Track. </li>
   <li><b>Dec 2022</b>: I won the <i class="fas fa-award"></i> best oral presentation award at XJTLU PGRS'22.</li>
-  <li><b>Dec 2022</b>: I served as a virtual setup assistant for IEEE AIVR'22.</li>
-  <li><b>Dec 2022</b>: I presented our paper at ACM SUI'22.</li>
   <!-- <li><b>Oct 2022</b>: I served as a remote student volunteer for IEEE ISMAR'22.</li> -->
 </ul>
 
@@ -49,7 +49,10 @@ My research interests fall broadly into Human-Computer Interaction (HCI), with a
         <p class="pubauthors">{{ pub.authors }}</p>
         <p class="pubinfo">{{ pub.publication }}, {{ pub.year }}</p>        
         <p class="publinks" style="text-align:left;">
+            {% if pub.doi != "" %}
             <a href={{pub.doi}} class="btn btn--inverse">DOI</a>
+            {% endif %}
+            <!-- <a href={{pub.doi}} class="btn btn--inverse">DOI</a> -->
             <a href={{pub.url}} class="btn btn--inverse">BibTeX</a>
             {% if pub.video != "" %}
             <a href={{pub.video}} class="btn btn--inverse">Video</a>

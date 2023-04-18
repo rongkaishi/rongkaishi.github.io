@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bibformat
 title: "Student’s Access Patterns of a Moodle-based Course Management System: A Case Study of a Large Entry Level Programming Class"
 authors: <b>Rongkai Shi</b>, Vijayakumar Nanjappan, Hai-Ning Liang, Shiyun Zhang, Jieming Ma, and Kok-Hoe Wong
 publication: 2019 IEEE International Conference on Engineering, Technology and Education (TALE)
