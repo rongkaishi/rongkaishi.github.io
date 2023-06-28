@@ -4,7 +4,7 @@ title: "Exploration of Bare-Hand Mid-Air Pointing Selection Techniques for Dense
 authors: <b>Rongkai Shi</b>, Jialin Zhang, Yong Yue, Lingyun Yu, and Hai-Ning Liang
 publication: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (CHI EA '23)
 year: 2023
-doi: ""
+doi: https://doi.org/10.1145/3544549.3585615
 pubtype: poster
 slug: rk-freehanddense23
 indexnum: 17
