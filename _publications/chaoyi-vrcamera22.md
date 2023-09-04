@@ -8,7 +8,7 @@ doi: https://doi.org/10.1145/3574131.3574439
 pubtype: conference
 slug: chaoyi-vrcamera22
 indexnum: 14
-index: "[C5]"
+index: "[C6]"
 video: ""
 paperrep: true
 ---

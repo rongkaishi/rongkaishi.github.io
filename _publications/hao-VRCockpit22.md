@@ -8,7 +8,7 @@ doi: https://doi.org/10.1109/CoG51982.2022.9893678
 pubtype: poster
 slug: hao-VRCockpit22
 indexnum: 11
-index: "[P3]"
+index: "[C4]"
 video: ""
 paperrep: true
 ---

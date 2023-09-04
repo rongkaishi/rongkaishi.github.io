@@ -8,7 +8,7 @@ doi: https://doi.org/10.1145/3565970.3567682
 pubtype: conference
 slug: rk-3dofalignment22
 indexnum: 12
-index: "[C4]"
+index: "[C5]"
 video: https://www.youtube.com/watch?v=tfGZRrggaFw
 selected: true
 paperrep: true

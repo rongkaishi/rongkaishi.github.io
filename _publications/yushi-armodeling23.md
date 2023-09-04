@@ -8,7 +8,7 @@ doi: https://doi.org/10.1145/3544548.3581042
 pubtype: conference
 slug: yushi-armodeling23
 indexnum: 16
-index: "[C6]"
+index: "[C7]"
 video: ""
 paperrep: true
 ---

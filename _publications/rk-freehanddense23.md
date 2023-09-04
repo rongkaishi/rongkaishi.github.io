@@ -8,7 +8,7 @@ doi: https://doi.org/10.1145/3544549.3585615
 pubtype: poster
 slug: rk-freehanddense23
 indexnum: 17
-index: "[P4]"
+index: "[P3]"
 video: "https://youtu.be/Ipx5nWYmSXA"
 paperrep: true
 ---
