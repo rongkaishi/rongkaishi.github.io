@@ -2,7 +2,7 @@
 layout: bibformat
 title: "Effect of Frame Rate on User Experience, Performance, and Simulator Sickness in Virtual Reality"
 authors: Jialin Wang, <b>Rongkai Shi</b>, Wenxuan Zheng, Weijie Xie, Dominic Kao, and Hai-Ning Liang
-publication: IEEE Transactions on Visualization and Computer Graphics
+publication: IEEE Transactions on Visualization and Computer Graphics (Issue IEEE VR)
 year: 2023
 doi: https://doi.org/10.1109/TVCG.2023.3247057
 pubtype: journal

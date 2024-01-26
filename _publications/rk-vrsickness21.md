@@ -2,7 +2,7 @@
 layout: bibformat
 title: "Virtual Reality Sickness Mitigation Methods: A Comparative Study in a Racing Game"
 authors: <b>Rongkai Shi</b>, Hai-Ning Liang, Yu Wu, Difeng Yu, and Wenge Xu
-publication: Proceedings of the ACM on Computer Graphics and Interactive Techniques
+publication: Proceedings of the ACM on Computer Graphics and Interactive Techniques (Issue I3D)
 year: 2021
 doi: https://doi.org/10.1145/3451255
 pubtype: conference
