@@ -9,7 +9,7 @@ pubtype: conference
 slug: Jianbin-TextSelection24
 indexnum: 22
 index: "[C8]"
-video: ""
+video: "https://youtu.be/Y33Egodrffw"
 paperrep: true
 ---
 
