@@ -10,6 +10,7 @@ slug: ToAppear
 indexnum: 27
 index: "[J13]"
 video: ""
+selected: true
 ---
 
 To appear.
