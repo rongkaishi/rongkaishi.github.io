@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Rongkai Shi"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. student in HCI"
-  location         : "Suzhou, China"
+  bio              : "HCI Researcher"
+  location         : "Guangzhou, China"
   email            :
   links:
     - label: "Twitter"
@@ -124,7 +124,7 @@ author:
       url: "https://scholar.google.com/citations?user=0VF4NWIAAAAJ&hl=en&oi=ao"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:rongkai.shi19@student.xjtlu.edu.cn"
+      url: "mailto:rongkaishi@hkust-gz.edu.cn"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   # url: "https://facebook.com/"
