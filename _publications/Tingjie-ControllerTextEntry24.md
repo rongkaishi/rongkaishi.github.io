@@ -13,13 +13,15 @@ video: ""
 ---
 
 
+
 @ARTICLE{10379826,<br/>
   author={Wan, Tingjie and Wei, Yushi and Shi, Rongkai and Shen, Junxiao and Kristensson, Per Ola and Atkinson, Katie and Liang, Hai-Ning},<br/>
   journal={IEEE Transactions on Visualization and Computer Graphics}, <br/>
-  title={Design and Evaluation of Controller-based Raycasting Methods for Efficient Alphanumeric and Special Character Entry in Virtual Reality}, <br/>
+  title={Design and Evaluation of Controller-Based Raycasting Methods for Efficient Alphanumeric and Special Character Entry in Virtual Reality}, <br/>
   year={2024},<br/>
-  volume={},<br/>
-  number={},<br/>
-  pages={1-11},<br/>
+  volume={30},<br/>
+  number={9},<br/>
+  pages={6493-6506},<br/>
   keywords={Keyboards;Layout;Standards;Switches;Touch sensitive screens;Task analysis;Electronic mail;Virtual reality;text entry;keyboard layout;alphanumeric and special character entry;mode-switching;user study},<br/>
-  doi={10.1109/TVCG.2024.3349428}}
+  doi={10.1109/TVCG.2024.3349428}<br/>
+}
