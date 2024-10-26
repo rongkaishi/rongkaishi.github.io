@@ -4,7 +4,7 @@ title: "Experimental Analysis of Freehand Multi-object Selection Techniques in V
 authors: <b>Rongkai Shi</b>, Yushi Wei, Xuning Hu, Yu Liu, Yong Yue, Lingyun Yu, and Hai-Ning Liang
 publication: Proceedings of the ACM on Human-Computer Interaction (Issue ISS)
 year: 2024
-doi: "https://arxiv.org/abs/2409.00982"
+doi: "https://doi.org/10.1145/3698129"
 pubtype: journal
 slug: rk-ISSmos24
 indexnum: 27
@@ -13,8 +13,6 @@ video: "https://youtu.be/5ZIJvRLta54"
 selected: true
 paperrep: true
 ---
-
-In press. <br/>
 
 @article{10.1145/3698129, <br/>
 author = {Shi, Rongkai and Wei, Yushi and Hu, Xuning and Yu, Liu and Yue, Yong and Yu, Lingyun and Liang, Hai-Ning}, <br/>
