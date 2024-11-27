@@ -1,6 +1,6 @@
 ---
 layout: bibformat
-title: "Experimental Analysis of Freehand Multi-object Selection Techniques in Virtual Reality Head-Mounted Displays"
+title: "Experimental Analysis of Freehand Multi-object Selection Techniques in Virtual Reality Head-Mounted Displays (Honorable Mention)"
 authors: <b>Rongkai Shi</b>, Yushi Wei, Xuning Hu, Yu Liu, Yong Yue, Lingyun Yu, and Hai-Ning Liang
 publication: Proceedings of the ACM on Human-Computer Interaction (Issue ISS)
 year: 2024
